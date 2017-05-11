@@ -1,0 +1,37 @@
+
+.dd-menu-section {
+    width: 100%;
+    background: url(../img/file7001293943757.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 900px;
+}
+
+.dd-videos-section {
+    width: 100%;
+    background: url(../img/Coffee-230022.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 900px;
+}
+
+.dd-contact-section {
+    width: 100%;
+    background: url(../img/donutDelightsStoreFront1.1.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 900px;
+}
+.dd-food-section {
+    width: 100%;
+    background: url(../img/donut-+-hot-coffee-2-copy1.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 1200px;
+}
+.top-sellers-text-no-bg {
+     position: relative;
+    width: 100px;
+    height: 100px;
+    
+}
