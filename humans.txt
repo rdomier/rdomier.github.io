@@ -1,15 +1,13 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The human responsible 
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Domier 
 
-# THANKS
-
-    <name>
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
+,googlemaps.api, some public domain images accessed via wikimediacommons.org, all other images © http://www.morguefile.com/ 
